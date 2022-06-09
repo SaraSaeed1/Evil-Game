@@ -1,3 +1,11 @@
+# Evil Game
+
+The game is " are you evil enough?" , is very funny and interesting game
+It consists of questions and answers, and each answer has a funny reaction.
+
+**Part of the game**
+
+![](img.png)
 
 ### Team Members:
 [Sara Alghamdi](https://github.com/SaraSaeed1)</br>
